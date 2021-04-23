@@ -1,0 +1,14 @@
+.card-function {
+      position: relative;
+      height: 50px;
+      padding: 20px;
+      padding-top:0px;
+      padding-bottom:0px;
+  }
+  
+.fa.functionIcon {
+      font-size: 30px;
+      color: #1a1717;
+      margin-right: 5px;
+      text-shadow: 2px 2px 8px #5d5a5a;
+  }
